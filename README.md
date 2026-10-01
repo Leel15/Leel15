@@ -1,10 +1,10 @@
 # Hi, I'm Lamia 👋
 
-🎓 Computer Science graduate with hands-on experience in **Data Engineering, Full-Stack Web Development, Software Development, and Database Systems**.
+Computer Science graduate with hands-on experience in **Data Engineering, Full-Stack Web Development, Software Development, and Database Systems**.
 
 I enjoy building practical applications and working on projects that combine technology, data, and real-world problems. My experience includes developing end-to-end data pipelines, web applications, API integrations, database solutions, AI-powered features, and interactive cybersecurity applications, and I'm always looking to expand my technical skills through practical projects and real-world challenges.
 
-## 🚀 Featured Projects
+## Featured Projects
 
 ### 📊 Saudi Tech Job Market Insights
 
@@ -42,6 +42,6 @@ A Django-based sustainability and smart gardening e-commerce platform featuring 
 
 ## 📫 Let's Connect
 
-[LinkedIn](https://www.linkedin.com/in/lamia-)
+[LinkedIn](https://www.linkedin.com/in/lamia-) ·
 [Email](https://mail.google.com/mail/?view=cm&fs=1&to=lamiaalsuhibani@gmail.com)
 
